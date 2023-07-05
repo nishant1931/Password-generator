@@ -53,7 +53,7 @@ const App = () => {
           />
         </div>
       )}
-      {/* Character length aND SLIDER  */}
+      {/* Character length and slider  */}
       <div className="char_length">
         <span>
           <label>Character length</label>
